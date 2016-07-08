@@ -1,0 +1,15 @@
+{
+  "name": "zendframework/dbal-pdo-odbc",
+  "description": "PDO ODBC Doctrine2 DBAL Driver",
+  "type": "library",
+  "homepage": "https://github.com/chriskl/dbal-pdo-odbc",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Kings-Lynne"
+    }
+  ],
+  "require-dev": {
+    "doctrine/dbal": "^2.5"
+  }
+}
