@@ -1,5 +1,5 @@
 {
-  "name": "zendframework/dbal-pdo-odbc",
+  "name": "chriskl/dbal-pdo-odbc",
   "description": "PDO ODBC Doctrine2 DBAL Driver",
   "type": "library",
   "homepage": "https://github.com/chriskl/dbal-pdo-odbc",
