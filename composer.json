@@ -9,6 +9,13 @@
       "name": "Chris Kings-Lynne"
     }
   ],
+  "autoload": {
+    "psr-0": {
+      "Chriskl\\": [
+        "lib/"
+      ]
+    }
+  },
   "require-dev": {
     "doctrine/dbal": "^2.5"
   }
