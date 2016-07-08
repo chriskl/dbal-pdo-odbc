@@ -16,6 +16,9 @@
       ]
     }
   },
+  "require": {
+    "ext-PDO_ODBC": "*"
+  },
   "require-dev": {
     "doctrine/dbal": "^2.5"
   }
